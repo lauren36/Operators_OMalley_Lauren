@@ -1,0 +1,13 @@
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\bin\Debug\netcoreapp3.1\Operators_OMalley_Lauren.exe
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\bin\Debug\netcoreapp3.1\Operators_OMalley_Lauren.deps.json
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\bin\Debug\netcoreapp3.1\Operators_OMalley_Lauren.runtimeconfig.json
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\bin\Debug\netcoreapp3.1\Operators_OMalley_Lauren.runtimeconfig.dev.json
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\bin\Debug\netcoreapp3.1\Operators_OMalley_Lauren.dll
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\bin\Debug\netcoreapp3.1\Operators_OMalley_Lauren.pdb
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\obj\Debug\netcoreapp3.1\Operators_OMalley_Lauren.csproj.AssemblyReference.cache
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\obj\Debug\netcoreapp3.1\Operators_OMalley_Lauren.AssemblyInfoInputs.cache
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\obj\Debug\netcoreapp3.1\Operators_OMalley_Lauren.AssemblyInfo.cs
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\obj\Debug\netcoreapp3.1\Operators_OMalley_Lauren.csproj.CoreCompileInputs.cache
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\obj\Debug\netcoreapp3.1\Operators_OMalley_Lauren.dll
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\obj\Debug\netcoreapp3.1\Operators_OMalley_Lauren.pdb
+C:\Users\lauren.omalley\source\repos\Operators_OMalley_Lauren\Operators_OMalley_Lauren\obj\Debug\netcoreapp3.1\Operators_OMalley_Lauren.genruntimeconfig.cache
